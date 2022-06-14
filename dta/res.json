@@ -1,0 +1,79 @@
+[
+    {
+        "_id": "62a742582ad9ba7d70f660c5",
+        "name": "mushroom fried rice",
+        "price": 150,
+        "image": "https://tse2.mm.bing.net/th?id=OIP.FeStwxVmI1jJvtF8_EG1igHaEK&pid=Api&P=0&w=290&h=163",
+        "__v": 0
+    },
+    {
+        "_id": "62a742d72ad9ba7d70f660c7",
+        "name": "chicken biryani",
+        "price": 250,
+        "image": "https://tse2.mm.bing.net/th?id=OIP.Q4f5lR46RdwAqe9hXJ7dlAHaF7&pid=Api&P=0&w=211&h=169",
+        "__v": 0
+    },
+    {
+        "_id": "62a744992ad9ba7d70f660c9",
+        "name": "MUTTON BIRYANI",
+        "price": 220,
+        "image": "http://2.bp.blogspot.com/-qCA1PWp2RX0/UKyUY6rFx5I/AAAAAAAACW8/5nOt6a5m2sk/s1600/Mutton+Biryani.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62a744fe2ad9ba7d70f660cb",
+        "name": "PRAWN BIRYANI",
+        "price": 220,
+        "image": "https://img2.exportersindia.com/product_images/bc-full/dir_71/2100786/frozen-prawn-biryani-1560819.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62a745612ad9ba7d70f660cd",
+        "name": "SAMBAR RICE",
+        "price": 120,
+        "image": "http://indianhealthyrecipes.com/wp-content/uploads/2015/09/sambar-rice-recipe.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62a745c42ad9ba7d70f660cf",
+        "name": "FULL MEAL",
+        "price": 220,
+        "image": "image:https://tse4.mm.bing.net/th?id=OIP.FspY33Yj6pvSZ2rw1qK0MwHaEK&pid=Api&P=0&w=277&h=156",
+        "__v": 0
+    },
+    {
+        "_id": "62a7461c2ad9ba7d70f660d1",
+        "name": " VARIETY PLATEER",
+        "price": 220,
+        "image": "https://2.bp.blogspot.com/-54cNbi4qpyM/U-MHnUdaLFI/AAAAAAAAd6Q/8PvyWCJgAPY/s1600/rice-varieties.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62a7464d2ad9ba7d70f660d3",
+        "name": "MUSHROOM FRIED RICE",
+        "price": 130,
+        "image": "https://tse2.mm.bing.net/th?id=OIP.FeStwxVmI1jJvtF8_EG1igHaEK&pid=Api&P=0&w=290&h=163",
+        "__v": 0
+    },
+    {
+        "_id": "62a7468f2ad9ba7d70f660d5",
+        "name": " GRILL CHICKEN ",
+        "price": 400,
+        "image": "https://homecookingmemories.com/wp-content/uploads/2012/07/Grilled-BBQ-Whole-Chicken-Butterflying-Spatchcocked-7.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "62a812bb2ad9ba7d70f660d7",
+        "name": " veg biryani ",
+        "price": 220,
+        "image": "https://tse3.mm.bing.net/th?id=OIP.i6RHe8skDLeQywn91qgMsgHaFj&pid=Api&P=0&w=222&h=166",
+        "__v": 0
+    },
+    {
+        "_id": "62a813362ad9ba7d70f660d9",
+        "name": " CRAB BIRYANI",
+        "price": 230,
+        "image": "http://2.bp.blogspot.com/_NGvqxTgLTM8/TFCGNlqBq_I/AAAAAAAAIlY/vaXcvnjEtqY/s1600/crab+biriyani5.jpg",
+        "__v": 0
+    }
+    ]
